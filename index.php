@@ -1,5 +1,5 @@
 <?php 
 
-echo "You are here!"
+echo "You are here!";
 
 ?>
